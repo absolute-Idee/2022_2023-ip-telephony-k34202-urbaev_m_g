@@ -49,4 +49,12 @@ Date of finished:
 <img src=https://user-images.githubusercontent.com/67152968/227783874-31525e61-65ab-496e-9a2e-4f4a91d0adc6.png width=500>
 
 
+<img src=https://user-images.githubusercontent.com/67152968/227784040-a51b0a64-d7a1-4bef-be95-f68cf0ffa078.png width=500>
+
+
+<img src=https://user-images.githubusercontent.com/67152968/227784266-f3288a86-806b-471d-8870-25ce89d6f2db.png width=500>
+
+
+<img src=https://user-images.githubusercontent.com/67152968/227784445-9510f595-199c-4e95-b05f-bec33bc26669.png width=500>
+
 ## Вывод
