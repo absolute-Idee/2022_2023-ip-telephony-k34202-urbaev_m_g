@@ -25,6 +25,16 @@ Date of finished:
 <img src=https://user-images.githubusercontent.com/67152968/227790209-f0949000-bf7c-4dfa-b748-8d7cf9ceac37.png width=500>
 
 
+<img src=https://user-images.githubusercontent.com/67152968/227790693-0a42a5a6-164e-4b20-86b2-df54b49603a1.png width=500>
+
+
+<img src=https://user-images.githubusercontent.com/67152968/227791234-9d5d9aba-3033-493f-9c49-2d8e3cc98a3f.png width=500>
+
+
+<img src=https://user-images.githubusercontent.com/67152968/227791482-2ac4b959-7370-4324-8a54-2691f6fa0a78.png width=500>
+
+
+
 
 
 ## Вывод
