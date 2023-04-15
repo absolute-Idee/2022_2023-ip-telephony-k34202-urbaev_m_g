@@ -71,19 +71,32 @@ Date of finished:
 
 <img src=https://user-images.githubusercontent.com/67152968/232206194-843c855b-aced-4263-b667-dcfb7ad34da8.png width=500>
 
+Исключаем из пула адрес интерфейса маршрутизатора и DNS-сервера:
+
 <img src=https://user-images.githubusercontent.com/67152968/232206393-2e236422-f24e-48d3-9d03-0078e5efbf9a.png width=500>
 
+Настраиваем DHCP сервера для передачи голоса и данных на маршрутизаторе Cisco 2811:
+
 <img src=https://user-images.githubusercontent.com/67152968/232206565-68f437ca-6ccd-494e-9ff8-2825e304b10c.png width=500>
+
+Настроим телефонный сервиса в автоматическом режиме, а также присвоим номера телефонам:
 
 <img src=https://user-images.githubusercontent.com/67152968/232206702-58d678ff-38ad-4eed-9ee2-0d1cc9bc8f8c.png width=500>
 
 <img src=https://user-images.githubusercontent.com/67152968/232206831-5a33e2b2-1d2c-4d24-a01f-76e6320a5e84.png width=500>
 
-<img src=https://user-images.githubusercontent.com/67152968/232207351-c700eb41-b155-4535-9174-f0b0d4e94c62.png width=500>
+<img src=https://user-images.githubusercontent.com/67152968/232233133-8cd05331-ad2f-4a36-ab12-a76cbaa0d805.png width=500>
 
+Результат пингов между ПК
+
+<img src=https://user-images.githubusercontent.com/67152968/232233293-656bb691-5e8b-4f93-8a55-f06fcbed3529.png width=500>
+
+Результат прозвона:
+
+<img src=https://user-images.githubusercontent.com/67152968/232233466-4b4774e5-760f-4fb5-a219-25c814e5594a.png width=500>
 
 
 
 
 ## Вывод
-В результате выполнения работы был освоен базовый функционал Cisco Packet Tracer, а также смоделирована сеть IP-телефонии
+В ходе лабораторной работы было изучено построение сети IP-телефонии с помощью маршрутизатора Cisco 2811, коммутатора Cisco catalyst 3560 и IP телефонов Cisco 7960.
