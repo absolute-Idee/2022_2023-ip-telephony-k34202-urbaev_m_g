@@ -51,27 +51,35 @@ Date of finished:
 
 #### Часть 2
 
-![image](https://user-images.githubusercontent.com/67152968/232205520-b92e4912-f298-4347-b59c-79324c3775fe.png)
+Была построена сеть: 
+<img src=https://user-images.githubusercontent.com/67152968/232232275-f3ce2c17-b6f6-4cd6-825d-3c2dd78d57f5.png width=700>
 
-![image](https://user-images.githubusercontent.com/67152968/232205773-12e4a17c-9800-4108-8ede-10552f3961fb.png)
+На коммутаторе были созданы VLAN Date, Voice, Management
 
-![image](https://user-images.githubusercontent.com/67152968/232205823-2cca7cdd-b561-46fd-beac-370e7b7ac084.png)
+<img src=https://user-images.githubusercontent.com/67152968/232205773-12e4a17c-9800-4108-8ede-10552f3961fb.png width=500>
 
-![image](https://user-images.githubusercontent.com/67152968/232206167-fb8698dc-3d05-4a06-a38e-ddf38cf99ce3.png)
+Далее настроим vlan 99 и зададим маршрут по умолчанию. Настроим интерфейс управления коммутатором в сети VLAN через
+назначение диапазона портов:
 
-![image](https://user-images.githubusercontent.com/67152968/232206182-679a6635-1e1b-4c9a-ba3a-632bcb0b476a.png)
+<img src=https://user-images.githubusercontent.com/67152968/232205823-2cca7cdd-b561-46fd-beac-370e7b7ac084.png width=500>
 
-![image](https://user-images.githubusercontent.com/67152968/232206194-843c855b-aced-4263-b667-dcfb7ad34da8.png)
+Включаем интерфейс FastEthernet0/0 и создаем логический подынтерфейса для VLAN 10, VLAN 20, VLAN 99: 
 
-![image](https://user-images.githubusercontent.com/67152968/232206393-2e236422-f24e-48d3-9d03-0078e5efbf9a.png)
+<img src=https://user-images.githubusercontent.com/67152968/232206167-fb8698dc-3d05-4a06-a38e-ddf38cf99ce3.png width=500>
 
-![image](https://user-images.githubusercontent.com/67152968/232206565-68f437ca-6ccd-494e-9ff8-2825e304b10c.png)
+<img src=https://user-images.githubusercontent.com/67152968/232206182-679a6635-1e1b-4c9a-ba3a-632bcb0b476a.png width=500>
 
-![image](https://user-images.githubusercontent.com/67152968/232206702-58d678ff-38ad-4eed-9ee2-0d1cc9bc8f8c.png)
+<img src=https://user-images.githubusercontent.com/67152968/232206194-843c855b-aced-4263-b667-dcfb7ad34da8.png width=500>
 
-![image](https://user-images.githubusercontent.com/67152968/232206831-5a33e2b2-1d2c-4d24-a01f-76e6320a5e84.png)
+<img src=https://user-images.githubusercontent.com/67152968/232206393-2e236422-f24e-48d3-9d03-0078e5efbf9a.png width=500>
 
-![image](https://user-images.githubusercontent.com/67152968/232207351-c700eb41-b155-4535-9174-f0b0d4e94c62.png)
+<img src=https://user-images.githubusercontent.com/67152968/232206565-68f437ca-6ccd-494e-9ff8-2825e304b10c.png width=500>
+
+<img src=https://user-images.githubusercontent.com/67152968/232206702-58d678ff-38ad-4eed-9ee2-0d1cc9bc8f8c.png width=500>
+
+<img src=https://user-images.githubusercontent.com/67152968/232206831-5a33e2b2-1d2c-4d24-a01f-76e6320a5e84.png width=500>
+
+<img src=https://user-images.githubusercontent.com/67152968/232207351-c700eb41-b155-4535-9174-f0b0d4e94c62.png width=500>
 
 
 
