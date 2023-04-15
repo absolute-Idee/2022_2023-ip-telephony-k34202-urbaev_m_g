@@ -41,6 +41,9 @@ Date of finished:
 
 ![image](https://user-images.githubusercontent.com/67152968/232223262-e8bd700d-8a2e-48f4-a21b-06ec8cf99565.png)
 
-![image](https://user-images.githubusercontent.com/67152968/232223357-f4ed0817-a962-4678-bd09-7d7419df9e22.png)
+![image](https://user-images.githubusercontent.com/67152968/232224704-70a39eda-c643-41f5-81a8-9b61d67e93d7.png)
 
+![image](https://user-images.githubusercontent.com/67152968/232224751-4f07a8aa-b257-4173-ad1f-716b94128a13.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232224649-8979163e-194d-4a49-b8b8-adb301bad30f.png)
 
