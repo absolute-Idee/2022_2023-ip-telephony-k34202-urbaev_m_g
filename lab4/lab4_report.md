@@ -15,3 +15,11 @@ Date of finished:
 
 ## Ход работы
 #### Часть 1
+![image](https://user-images.githubusercontent.com/67152968/232216710-1977d94c-9d11-46a4-b5e0-feb5c82a849b.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232210471-5ea221a6-6e41-4dee-8940-a315f615c544.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232210593-c376023f-4482-46bd-ad04-5bbaf6a481f9.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232210695-554ba1ee-1abd-4c5f-a2e5-76ba7fc66d02.png)
+
