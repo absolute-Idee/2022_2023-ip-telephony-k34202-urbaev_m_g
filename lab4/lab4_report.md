@@ -14,19 +14,28 @@ Date of finished:
 Изучить построение сети IP-телефонии между удаленными филиалами с помощью маршрутизаторов Cisco 2811 и коммутаторов Cisco 2950Т.Изучить построение сети IP-телефонии между удаленными филиалами с помощью маршрутизаторов Cisco 2811 и Cisco 2600XM.
 
 ## Ход работы
+
+Между маршрутизаторами должно быть проложено DCE/DTE соединение. Для этого на роутерах были добавлены новые разъемы при выключенном питании:  
 <img src=https://user-images.githubusercontent.com/67152968/232216710-1977d94c-9d11-46a4-b5e0-feb5c82a849b.png width=500>
 
+Перед выполнением необходимых настроек, необходимо настроить оконченные устройства сети на DHCP:  
 <img src=https://user-images.githubusercontent.com/67152968/232210471-5ea221a6-6e41-4dee-8940-a315f615c544.png width=500>
+
+Далее были настроены конфигурации интерфейсов fa0/0 на маршрутизаторах RouterA и RouterB:  
 
 <img src=https://user-images.githubusercontent.com/67152968/232210593-c376023f-4482-46bd-ad04-5bbaf6a481f9.png width=500>
 
 <img src=https://user-images.githubusercontent.com/67152968/232210695-554ba1ee-1abd-4c5f-a2e5-76ba7fc66d02.png width=500>
 
+Также были сконфигурированы интерфейсы s1/0 на роутерах. На роутере А был настроен DCE порт, на роутере B DTE порт:
+
 <img src=https://user-images.githubusercontent.com/67152968/232218457-7b8a1672-30a9-49f1-896f-35fe7b5fd3dd.png width=500>
 
 <img src=https://user-images.githubusercontent.com/67152968/232219591-f85923df-3884-4e9c-8bd8-1d190b6b9578.png width=500>
 
-<img src=https://user-images.githubusercontent.com/67152968/232219774-78c6c511-78c7-4f3c-b2df-f054ac8b878b.png width=500>
+В результате была настроена сеть:
+
+<img src=https://user-images.githubusercontent.com/67152968/232219774-78c6c511-78c7-4f3c-b2df-f054ac8b878b.png width=800>
 
 <img src=https://user-images.githubusercontent.com/67152968/232221023-d9a4f4b0-cfd2-4c3f-b01e-cb844a739060.png width=500>
 
