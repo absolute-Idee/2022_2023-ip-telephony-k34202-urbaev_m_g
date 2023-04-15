@@ -44,6 +44,21 @@ Date of finished:
 
 ![image](https://user-images.githubusercontent.com/67152968/232205520-b92e4912-f298-4347-b59c-79324c3775fe.png)
 
+![image](https://user-images.githubusercontent.com/67152968/232205773-12e4a17c-9800-4108-8ede-10552f3961fb.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232205823-2cca7cdd-b561-46fd-beac-370e7b7ac084.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232206167-fb8698dc-3d05-4a06-a38e-ddf38cf99ce3.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232206182-679a6635-1e1b-4c9a-ba3a-632bcb0b476a.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232206194-843c855b-aced-4263-b667-dcfb7ad34da8.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232206393-2e236422-f24e-48d3-9d03-0078e5efbf9a.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232206565-68f437ca-6ccd-494e-9ff8-2825e304b10c.png)
+
+
 
 
 
