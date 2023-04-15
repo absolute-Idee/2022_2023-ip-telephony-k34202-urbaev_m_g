@@ -93,7 +93,7 @@ Date of finished:
 
 Результат прозвона:
 
-<img src=https://user-images.githubusercontent.com/67152968/232233466-4b4774e5-760f-4fb5-a219-25c814e5594a.png width=500>
+<img src=https://user-images.githubusercontent.com/67152968/232233466-4b4774e5-760f-4fb5-a219-25c814e5594a.png width=700>
 
 
 
