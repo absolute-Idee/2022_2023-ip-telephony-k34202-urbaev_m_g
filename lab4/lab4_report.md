@@ -37,5 +37,10 @@ Date of finished:
 
 ![image](https://user-images.githubusercontent.com/67152968/232223045-bb20f9fd-07ea-42c3-ae83-c69463ec8f79.png)
 
+![image](https://user-images.githubusercontent.com/67152968/232223157-54382382-0666-4250-8148-8e61904b2f79.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232223262-e8bd700d-8a2e-48f4-a21b-06ec8cf99565.png)
+
+![image](https://user-images.githubusercontent.com/67152968/232223357-f4ed0817-a962-4678-bd09-7d7419df9e22.png)
 
 
