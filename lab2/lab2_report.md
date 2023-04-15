@@ -42,5 +42,11 @@ Date of finished:
 
 #### Часть 2
 
+![image](https://user-images.githubusercontent.com/67152968/232205520-b92e4912-f298-4347-b59c-79324c3775fe.png)
+
+
+
+
+
 ## Вывод
 В результате выполнения работы был освоен базовый функционал Cisco Packet Tracer, а также смоделирована сеть IP-телефонии
